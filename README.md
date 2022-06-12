@@ -1,2 +1,22 @@
 # promocodegen
- This is a tool to generate HTML for reading promo codes with a camera.
+This is a tool to generate HTML for reading promo codes with a camera.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
